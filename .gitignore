@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large datasets and generated artefacts
+data/
+*.npy
+*.npz
+*.bin
+*.parquet
+
+# OS files
+.DS_Store
+Thumbs.db
